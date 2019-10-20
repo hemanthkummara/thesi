@@ -1,2 +1,2 @@
-# thesis
+# thesi
 test
